@@ -1,3 +1,21 @@
-body {
-
+nav{
+  list-style-type: none;
+  background-color: #A13D63;
+  position: fixed;
+  color: white;
+  width: 100vw;
+  left: 0;
+  top:0;
+  text-align: center;
+}
+li{
+  display: inline;
+  padding: 50px
+}
+body{
+  background-color:#FFC7C2
+}
+a{
+  text-decorationL none;
+  color: white;
 }
